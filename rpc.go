@@ -166,5 +166,3 @@ func (r *RaftNode) HandleAppendEntriesResponse(response AppendEntriesResponse) e
 	}
 	return nil
 }
-
-
